@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: 123Linkit Affiliate Marketing Tool
+Plugin Name: 123Linkit Affiliate Marketing Tool MU Edition
 Plugin URI:  http://www.123linkit.com/general/download
 Description: 123LinkIt Affiliate Plugin - Generate money easily from your blog by transforming keywords into affiliate links. No need to apply to affiliate networks or advertisers - we do it all for you. Just pick from our list of recommendations and you're good to go! To get started, sign up at 123LinkIt.com for an account and Navigate to Settings -> 123LinkIt configuration to input your API keys.
-Version: 0.5
+Version: 0.51
 Author: 123Linkit, LLC.
 Author URI: http://www.123linkit.com/
 */
