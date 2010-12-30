@@ -1,0 +1,2 @@
+[29-Aug-2010 07:05:33] PHP Notice:  Undefined variable: c_options in /Users/alexthero/work/123LinkIt-Tools/wordpress/plugins/123linkit/lib/proxy.php on line 25
+[29-Aug-2010 07:05:33] PHP Catchable fatal error:  Argument 2 passed to curl_setopt_array() must be an array, null given, called in /Users/alexthero/work/123LinkIt-Tools/wordpress/plugins/123linkit/lib/proxy.php on line 42 and defined in /Users/alexthero/work/123LinkIt-Tools/wordpress/plugins/123linkit/lib/proxy.php on line 25

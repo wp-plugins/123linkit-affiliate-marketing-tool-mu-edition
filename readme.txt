@@ -1,28 +1,43 @@
 === Plugin Name ===
 Contributors: 123LinkIt
-Tags: plugin, posts, affiliate, links, referral, affiliate widget, advertising, make money, text links, masking, cloaking, commission junction, cj
+Tags: earn money, text links, affiliate widget, advertising, make money, monetization, affiliate marketing, cj, commission junction, referral, links, advertising, affiliate plugin, affiliate
 Requires at least: 2.0.2
-Tested up to: 2.9.2
+Tested up to: 3.0 
 Stable tag: trunk
 
-123LinkIt Affiliate Plugin MU Edition - Generate money easily from your blog by transforming keywords into affiliate links.
-Go to http://wordpress.org/extend/plugins/123linkit-affiliate-marketing-tool for the non-MU version.
+123LinkIt Affiliate Plugin - Generate money easily from your blog by transforming keywords into affiliate links.
 
 == Description ==
 
-Generate money easily from your blog by transforming keywords into affiliate links. No need to apply to affiliate networks or advertisers - we do it all for you. Just pick from our list of recommendations and you're good to go! Navigate to Settings -> 123LinkIt configuration to get started.
+Generate money easily from your blog by transforming brand names and product keywords into affiliate links. There’s no need to apply to affiliate networks or programs - we do it all for you. Just install the plugin, sync your posts and we’ll automatically add relevant, money-making affiliate links to your blog.
+
+* Affiliate Masking - We automatically create clean and professional looking redirects that increase your conversion rates and protect you from affiliate theft (E.g. YourBlogURL.com/iPhone4)
+
+* Links include Nofollow Tags - We defend your PageRank and ensure you don't get penalized by search engines with the nofollow tags that are automatically added to your affiliate links.
+
+* Stats & Reporting - Receive in-depth reporting so you know EXACTLY what blog posts and advertisers are working best for you, allowing you to fine-tune your future posts and capitalize on the best performing content.
+
+* Access to Commission Junction's Advertisers - With almost 1000 CJ advertisers and more added every day, our software provides you with an increased reach to ensure the most relevant affiliate links and deals are available for your selection.
+
+* Saves Real Estate on Your Blog - Forget about the banner ads, contextual ads or annoying pop-ups. Our software integrates affiliate links right into your text to provide a seamless experience for your readers.
+
+* Receive Blog Post Recommendations - Not only do we automate the affiliate marketing process for you, but we also provide you with monthly blog post ideas. We do this by analyzing your statistics and current trends to assist you in developing targeted content that’s more likely to convert into passive income (Note: This feature is only available to active users after they’ve earned their first commission)
 
 == Installation ==
 
-IMPORTANT! PLEASE FOLLOW THESE INSTRUCTIONS TO ENSURE THE PLUGIN WORKS FOR YOU. 
+Installing our affiliate plugin takes less than one minute. 
 
-For a video tutorial, check out this quick 1 minute Vimeo video - http://vimeo.com/10388133
+1. Download and install the plugin
 
-1. Install the plugin
-2. Create an account at [123LinkIt](http://www.123linkit.com "123LinkIt") to receive your Public & Private API keys. These keys will allow us to track your commissions and link data 
-3. In your WordPress blog, go to Settings -> 123LinkIt configuration and input your keys. We recommend copying and pasting these directly to avoid inaccuracy.
+2. Create an account or login
 
-Contact us at support@123LinkIt.com for questions or check out our blog for information on our latest releases - http://www.123linkit.org/blog
+3. In your WordPress blog, go to the 123LinkIt (under Dashboard) to synchronize your posts and get started. 
+
+Note: The plugin automatically syncs modified posts and newly launched posts thereafter. 
+
+You’re now ready to go. Enjoy building your passive income! Have a question? Click on our Contact us page or visit our GetSatisfaction Community to get help. Also, make sure to stay in touch to receive our latest updates through Facebook and Twitter. 
+
+Compatibility: The plugin is compatible with WordPress 2.8.0 or higher. It is NOT compatible with BuddyPress. 
 
 == Frequently Asked Questions ==
 
@@ -35,6 +50,12 @@ Contact us at support@123LinkIt.com for questions or check out our blog for info
 =Visit our homepage for more info at http://www.123LinkIt.com
 
 == Changelog ==
+
+=1.1
+  - major update release
+  - Instant automation of affiliate links with new dashboard interface
+  - Users can log in or create new account within plugin
+  - Added Stats, 123Linkit Challenge, Bug Report, Reset Plugin, notification bar
 
 =0.5
 	- plugin now uses tracker on 123linkit.com and does not mess links around
